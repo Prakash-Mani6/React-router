@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    hello jaan umhaaaaaaaa
+       Hello
       
     </>
   )
